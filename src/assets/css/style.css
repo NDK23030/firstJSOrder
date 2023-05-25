@@ -927,6 +927,10 @@ textarea:focus {
   margin-bottom: 1rem;
 }
 
+.popup_calc_content .balcon_icons_img:hover {
+  cursor: pointer;
+}
+
 .popup_calc_content .big_img img {
   display: none;
   margin-bottom: 3rem;
