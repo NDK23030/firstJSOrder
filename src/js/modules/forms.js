@@ -62,7 +62,6 @@ const forms = (state) => {
                             item.style.display = 'none';
                         })
                     }, 5000);
-                    return state;
                 });
         }); 
     });
